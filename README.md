@@ -1,4 +1,4 @@
-Tree with Int Double Char and Int_Stack(this is an order).
+Tree with Int Double Char and Int_Stack(this is an order) with interface.
 Functions:
 -add elements-a few,
 -delete elements (without root with only one child)-a few,
@@ -9,7 +9,7 @@ Functions:
 -pop on stack-a few,
 -print tree.
 
-Drzewo z Int Double Char i Stosami zawierajacymi Inty. Porzadkowane w tej kolejnosci
+Drzewo z Int Double Char i Stosami zawierajacymi Inty. Porzadkowane w tej kolejnosci. Z interfejsem.
 Funkcje:
 -dodaj-kilka,
 -odejmij (bez usuwania korzenia z jednym dzieckiem)-kilka,
