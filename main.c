@@ -5,6 +5,8 @@ struct node{
 	void* value;
 	char name;
 	struct node *next, *prev, *father;
+	int proba;
+
 };
 
 struct stack
